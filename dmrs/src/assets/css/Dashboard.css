@@ -1,0 +1,77 @@
+
+     .dashboard{
+        color: #8c57ff;
+     }
+    .dashUserImg{
+        border-radius: 50%;
+        width: 7em;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    .seactInput{
+        color: white;
+        background-color: #8c57ff;
+        font-size: 23px;
+    
+    }
+        /*
+    .UserCard2{
+        border: none;
+    }
+    .UserCard{
+        border: none;
+        margin-top: 2em;
+    }
+
+   .searchSymptom{
+    width: 34em;
+    margin-left: 6em;
+   }
+.medicinesList{
+    width: 100%;
+}*/
+.lists{
+    overflow-y:scroll;
+    max-height: 21em;
+} 
+.searchSymptom{
+    margin-right: 8em;
+    width: 31.2em;
+    margin-top: 1em;
+}
+.dashHeading{
+    margin-left: 10em;
+}
+.dashboardRow{
+    margin-top: 3rem !important;
+}
+.dashCard2{
+    height: 27em;
+    border: none;
+    background-color: ivory;
+}
+.UserCard {
+    border: none;
+    background-color: ivory;
+}
+.btn-primary:hover{
+    background-color: #8c57ff;
+  }
+  .seachInput{
+    background-color: ivory;
+
+  }
+  .form-check-input:checked {
+    background-color: #8c57ff;
+    border-color: #8c57ff;
+}
+.listHeader{
+    color: white;
+}
+.darkMode{
+    position: absolute;
+    top: 0;
+    left: 50em;
+    right: 0;
+}
